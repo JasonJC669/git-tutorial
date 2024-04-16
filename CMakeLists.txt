@@ -5,4 +5,5 @@ add_executable(main
   main.c
   foo1.c
   foo2.c
+  fooInterrupt.c
   )

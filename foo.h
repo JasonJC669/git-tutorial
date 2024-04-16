@@ -3,5 +3,6 @@
 
 int foo1();
 int foo2();
+int fooInterrupt();
 
 #endif /* _FOO_H */
